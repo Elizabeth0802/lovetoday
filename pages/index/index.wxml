@@ -1,0 +1,57 @@
+<!--pages/index/index.wxml-->
+<!-- 组件 -->
+<image style="width:360px;height:400px;margin:0px;"mode="scaleToFill"src="{{imageSrc}}"></image>
+<view class="content">
+
+  <view class="top">
+
+    <view class="top-tr">
+
+     <image src="{{trimg}}" class="top-trimg"></image>
+    </view>
+
+   
+
+    <view class="top-info">
+
+      <view class="toin-name">我们的小程序</view>
+
+      <view class="toin-info"> 爱今天·时光序</view>
+
+    </view>
+
+  </view>
+
+  <view class="clear"></view>
+
+  <view class="info">
+
+    <view class="in-title">爱今天·时光序简介</view>
+
+    <view class="in-info">从今天起做一个幸福的人</view>
+    <view class="in-info">喂马劈柴周游世界</view>
+    <view class="in-info">从今天起关心粮食和蔬菜</view>
+    <view class="in-info">我有一所房子</view>
+    <view class="in-info">面朝大海春暖花开</view>
+
+
+
+  </view>
+
+  <view class="clear"></view>
+
+  <view class="info">
+
+    <view class="in-title">关于日程</view>
+
+    <view class="in-info">记忆如果不整理，它的沉睡速度往往快的惊人</view>
+
+  </view>
+
+  <view class="clear"></view>
+
+</view>
+
+
+
+

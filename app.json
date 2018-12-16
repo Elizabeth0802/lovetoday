@@ -1,0 +1,44 @@
+{"tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#E6BFB3",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "images/1.png",
+        "iconPath": "images/1.png",
+        "pagePath": "pages/start/start",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "images/2.png",
+        "iconPath": "images/2.png",
+        "pagePath": "pages/agenda/agenda",
+        "text": "日程"
+      },
+      
+      {
+        "selectedIconPath": "images/3.png",
+        "iconPath": "images/3.png",
+        "pagePath": "pages/index/index",
+        "text": "关于我们"
+      }
+    ]
+  },
+
+  "pages": [
+    "pages/start/start",
+    "pages/wifi_station/tianqi/tianqi",
+    "pages/index/index",
+    "pages/agenda/agenda"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#CA897D",
+    "navigationBarTitleText": "爱今天·时光序",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+    },
+  "debug": true
+}
